@@ -4,7 +4,7 @@ A support analytics model for a DevSecOps support org: **cost per ticket by prod
 
 SQL marts in DuckDB over Zendesk-, Salesforce- and billing-shaped extracts. Ticket data is private everywhere, so tickets are simulated for 1,500 accounts and 58,009 tickets over 24 months (Nov 2024 to Oct 2026). The product side is real: stage mix, bug share and issue complexity are calibrated to **2,003 public `gitlab-org/gitlab` issues labeled `customer`**, pulled from the GitLab API. KPI targets (first reply SLA 95%, SSAT 95%) follow GitLab's public Support performance indicators. The simulation plants known AI effects, so every estimate below can be checked against the truth.
 
-**Open [`reports/mbr.html`](reports/mbr.html)** for the MBR.
+**[Open the one-page MBR](https://v391.github.io/gitlab-support-economics/reports/mbr.html)** (source: [`reports/mbr.html`](reports/mbr.html)).
 
 ## Headlines
 
