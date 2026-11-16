@@ -1,0 +1,111 @@
+{
+  "tickets_total": 58009,
+  "real_issue_count": 2003,
+  "last12_support_cost": 14057807.003558181,
+  "last12_cost_per_ticket": 458.2374015111214,
+  "data_tests": 10,
+  "org_match_rules": {
+    "zendesk_sfdc_id": 890,
+    "crm_zendesk_org_id": 518,
+    "domain": 152
+  },
+  "self_service": {
+    "howto_config_tickets": {
+      "did_per_account_month": -0.20697346413960693,
+      "pct": -0.2008831857028222,
+      "ci": [
+        -0.24398348608325707,
+        -0.15457581342444424
+      ],
+      "naive_pre_post_pct": -0.17855658877488678
+    },
+    "other_tickets": {
+      "did_per_account_month": -0.011482930171362149,
+      "pct": -0.010680571878349367,
+      "ci": [
+        -0.06696939586455944,
+        0.05261730247569072
+      ],
+      "naive_pre_post_pct": 0.058606364577567405
+    },
+    "tickets": {
+      "did_per_account_month": -0.2184563943109692,
+      "pct": -0.1037956793210571,
+      "ci": [
+        -0.14680445398354075,
+        -0.054714001482858036
+      ],
+      "naive_pre_post_pct": -0.059994253579963686
+    },
+    "tickets_avoided_per_month": 142.0987816576257,
+    "bot_claimed_per_month": 613.2222222222222,
+    "conversations_per_month": 1180.7777777777778,
+    "hours_freed_per_month": 253.00040115065812,
+    "value_per_month_loaded": 38854.00549186845,
+    "value_per_month_direct": 20085.332698002403
+  },
+  "self_service_truth_blended": 0.22,
+  "agent_assist": {
+    "naive_used_vs_not": -0.4752281661063359,
+    "itt_pct": -0.06426444834930534,
+    "itt_ci": [
+      -0.08167974807316236,
+      -0.046518879676423874
+    ],
+    "usage_rate": 0.5443949262941378,
+    "effect_when_used": -0.11486169872043295,
+    "easy_share_used": 0.7040302267002518,
+    "easy_share_not_used": 0.3375470278404816
+  },
+  "agent_assist_truth_when_used": -0.14,
+  "churn": {
+    "renewals_train": 1370,
+    "renewals_test": 966,
+    "base_churn": 0.0800513698630137,
+    "test_auc": 0.7974165856818917,
+    "top_decile_lift": 4.072916666666667,
+    "top_decile_share_of_churn": 0.40476190476190477,
+    "renewing_next_4m": 397,
+    "flagged": 81,
+    "arr_flagged": 34789224.0,
+    "coefs": {
+      "ultimate": -0.134,
+      "reopens": -0.062,
+      "self_managed": -0.059,
+      "sqrt_escalations": 0.131,
+      "sla_breaches": 0.165,
+      "log_tickets_per_100_seats": 0.348,
+      "log_seats": 0.364,
+      "sqrt_bad_ssat": 0.416,
+      "any_emergency": 0.433
+    }
+  },
+  "utilization_ceiling": 0.55,
+  "capacity": {
+    "AI scaled to all accounts": {
+      "fte_needed": 95.4,
+      "fy28_cost": 15503517.2,
+      "fy28_tickets": 33694.8
+    },
+    "High growth +15%, AI scaled": {
+      "fte_needed": 109.7,
+      "fy28_cost": 17762471.7,
+      "fy28_tickets": 38749.0
+    },
+    "No AI": {
+      "fte_needed": 112.7,
+      "fy28_cost": 18104614.0,
+      "fy28_tickets": 37274.4
+    },
+    "Today's AI footprint": {
+      "fte_needed": 100.4,
+      "fy28_cost": 16276837.6,
+      "fy28_tickets": 35484.6
+    }
+  },
+  "current_fte": 95,
+  "alerts": 53,
+  "top_quality_stage": "secure & govern",
+  "top_quality_cost": 889574.1925229433,
+  "quality_cost_total": 2989674.6919734636
+}

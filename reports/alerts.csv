@@ -1,0 +1,54 @@
+region,week,alert,detail
+EMEA,2024-11-18,Ticket volume spike,214 tickets vs 170 mean
+AMER,2025-01-06,Ticket volume spike,302 tickets vs 232 mean
+EMEA,2025-10-06,SLA below 95% two weeks running,90.2% then 92.0%
+AMER,2025-10-06,SLA below 95% two weeks running,93.7% then 92.6%
+AMER,2025-10-13,SLA below 95% two weeks running,92.6% then 94.1%
+EMEA,2025-10-13,SLA below 95% two weeks running,92.0% then 88.7%
+AMER,2025-10-20,SLA below 95% two weeks running,94.1% then 93.9%
+EMEA,2025-10-20,SLA below 95% two weeks running,88.7% then 85.4%
+AMER,2025-10-27,SLA below 95% two weeks running,93.9% then 93.5%
+EMEA,2025-10-27,SLA below 95% two weeks running,85.4% then 90.8%
+AMER,2026-01-05,SLA below 95% two weeks running,88.9% then 89.6%
+APAC,2026-01-05,SLA below 95% two weeks running,94.3% then 86.2%
+AMER,2026-01-12,SLA below 95% two weeks running,89.6% then 93.3%
+APAC,2026-01-12,SLA below 95% two weeks running,86.2% then 88.5%
+APAC,2026-01-19,SLA below 95% two weeks running,88.5% then 92.4%
+AMER,2026-01-19,SLA below 95% two weeks running,93.3% then 88.1%
+EMEA,2026-01-19,SLA below 95% two weeks running,93.9% then 93.6%
+APAC,2026-01-26,SLA below 95% two weeks running,92.4% then 93.8%
+AMER,2026-01-26,SLA below 95% two weeks running,88.1% then 94.2%
+EMEA,2026-02-09,SLA below 95% two weeks running,94.7% then 94.4%
+AMER,2026-03-09,SLA below 95% two weeks running,91.0% then 91.9%
+EMEA,2026-03-09,SLA below 95% two weeks running,92.8% then 93.1%
+EMEA,2026-03-16,SLA below 95% two weeks running,93.1% then 91.1%
+AMER,2026-03-16,SLA below 95% two weeks running,91.9% then 90.6%
+EMEA,2026-03-23,SLA below 95% two weeks running,91.1% then 89.8%
+AMER,2026-03-23,SLA below 95% two weeks running,90.6% then 89.7%
+EMEA,2026-03-30,SLA below 95% two weeks running,89.8% then 93.8%
+EMEA,2026-04-27,SLA below 95% two weeks running,94.3% then 94.7%
+APAC,2026-04-27,SLA below 95% two weeks running,94.6% then 94.6%
+APAC,2026-05-04,SLA below 95% two weeks running,94.6% then 93.9%
+APAC,2026-05-11,SLA below 95% two weeks running,93.9% then 88.8%
+APAC,2026-05-18,SLA below 95% two weeks running,88.8% then 91.8%
+APAC,2026-06-08,SLA below 95% two weeks running,80.2% then 73.6%
+APAC,2026-06-15,SLA below 95% two weeks running,73.6% then 73.3%
+EMEA,2026-06-15,SLA below 95% two weeks running,94.4% then 94.6%
+APAC,2026-06-22,SLA below 95% two weeks running,73.3% then 79.3%
+APAC,2026-06-29,SLA below 95% two weeks running,79.3% then 77.8%
+APAC,2026-07-06,SLA below 95% two weeks running,77.8% then 77.9%
+APAC,2026-07-13,SLA below 95% two weeks running,77.9% then 82.8%
+APAC,2026-07-20,SLA below 95% two weeks running,82.8% then 85.7%
+AMER,2026-07-20,SLA below 95% two weeks running,94.3% then 92.2%
+APAC,2026-07-27,SLA below 95% two weeks running,85.7% then 81.0%
+APAC,2026-08-03,SLA below 95% two weeks running,81.0% then 69.0%
+APAC,2026-08-10,SLA below 95% two weeks running,69.0% then 76.5%
+APAC,2026-08-17,SLA below 95% two weeks running,76.5% then 87.0%
+APAC,2026-08-24,SLA below 95% two weeks running,87.0% then 76.3%
+AMER,2026-10-05,SLA below 95% two weeks running,92.2% then 90.8%
+EMEA,2026-10-05,SLA below 95% two weeks running,80.9% then 85.3%
+EMEA,2026-10-05,Ticket volume spike,273 tickets vs 207 mean
+EMEA,2026-10-12,SLA below 95% two weeks running,85.3% then 81.5%
+AMER,2026-10-12,SLA below 95% two weeks running,90.8% then 89.0%
+AMER,2026-10-19,SLA below 95% two weeks running,89.0% then 88.9%
+EMEA,2026-10-19,SLA below 95% two weeks running,81.5% then 83.7%
